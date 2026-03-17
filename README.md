@@ -1,13 +1,13 @@
+## NAME : RUDESH KANNA R
+## REG.NO: 212223233002
 # EX-02 Implementation of Perceptron for Binary Classification
-## Aim:
-#### To implement a perceptron for classification using Python.
-
 ## DATE : 22.03.2024
+## Aim:
+ To implement a perceptron for classification using Python.
 
-### EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 
 Hardware – PCs
-
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ### RELATED THEORETICAL CONCEPT:
