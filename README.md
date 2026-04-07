@@ -91,8 +91,8 @@ Print the accuracy
 
 ### PROGRAM:
 ```Python
-#  Developed by : Sri Varshan P
-#  Reg.No : 212222240104
+#  Developed by : RUDESH KANNA R 
+#  Reg.No : 212223233002
 import numpy as np                                                      
 import pandas as pd                                                     
 import matplotlib.pyplot as plt
